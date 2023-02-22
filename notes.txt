@@ -1,0 +1,2 @@
+sectionları geçerken linklerin renginin değişip select pageyi algılaması motion.div ile yapıldı onViewportEnter() fon içinde anlaşılıyor
+zaten bakınca
